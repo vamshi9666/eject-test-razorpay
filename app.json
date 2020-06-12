@@ -22,7 +22,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "ejecttest.vamshi9666.co"
+    },
+    "android": {
+      "package": "ejecttest.vamshi9666.co"
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
   }
 }
